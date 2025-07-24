@@ -4,6 +4,17 @@
 
 **URL**: https://lovable.dev/projects/48baadbe-c217-4a0b-9e40-a1c3eebabef0
 
+## Screenshots
+<img width="977" height="636" alt="Screenshot 2025-07-24 at 2 05 34 PM" src="https://github.com/user-attachments/assets/71afe834-04eb-4fcf-9589-eed26007b819" />
+<img width="974" height="648" alt="Screenshot 2025-07-24 at 2 05 08 PM" src="https://github.com/user-attachments/assets/0bbd8e89-9958-4834-9a25-1ebc242cf2d6" />
+<img width="962" height="633" alt="Screenshot 2025-07-24 at 2 04 31 PM" src="https://github.com/user-attachments/assets/8acd17b3-a057-4c61-933c-02ded6c70d53" />
+<img width="962" height="622" alt="Screenshot 2025-07-24 at 2 03 55 PM" src="https://github.com/user-attachments/assets/73bb38e8-41b5-4bc0-96e0-24bc306ff183" />
+<img width="958" height="622" alt="Screenshot 2025-07-24 at 2 03 19 PM" src="https://github.com/user-attachments/assets/de6e11d7-ae91-4759-9ad5-36eabe61486f" />
+<img width="963" height="623" alt="Screenshot 2025-07-24 at 2 02 30 PM" src="https://github.com/user-attachments/assets/d29219bd-3f71-41c1-bb33-f012d6ce3a86" />
+<img width="968" height="623" alt="Screenshot 2025-07-24 at 2 02 16 PM" src="https://github.com/user-attachments/assets/9797997a-d198-4424-92bb-12997e04c573" />
+<img width="970" height="619" alt="Screenshot 2025-07-24 at 2 01 58 PM" src="https://github.com/user-attachments/assets/5df8cba0-1512-4ab5-bd6b-a9abeea792e9" />
+
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
